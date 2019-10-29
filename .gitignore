@@ -122,3 +122,4 @@ dmypy.json
 .DS_Store
 
 # End of gitignore
+.DS_Store
