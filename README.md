@@ -51,6 +51,9 @@ Open [http://localhost:8000](http://localhost:8000) to view it in the browser an
 
 The page will NOT reload if you make any edits.<br>
 
+## Subscribe for free OpenWeather API
+
+Ypu can get your API from [OpenWeather](https://home.openweathermap.org/)
 
 ## Learn More
 
