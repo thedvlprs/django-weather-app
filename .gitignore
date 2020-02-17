@@ -119,7 +119,7 @@ dmypy.json
 .vscode/
 
 #DS_Store
-.DS_Store
+.DS_Store/
 
 # End of gitignore
 .DS_Store
