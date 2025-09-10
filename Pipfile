@@ -7,5 +7,5 @@ name = "pypi"
 autopep8 = "*"
 
 [packages]
-django = "==4.2.22"
+django = "==4.2.24"
 requests = "*"
